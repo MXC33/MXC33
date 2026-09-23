@@ -15,13 +15,15 @@ I build AI products end to end, from system architecture to shipped app. Most re
 | Project | What I did | Stack | Link |
 | --- | --- | --- | --- |
 | **LocalLingo** · [EV3 Labs](https://evidence3.com) | Lead architect & developer. City-specific AI voice coach for local slang and dialects: 16 kHz PCM streamed to Gemini Live over WebSocket, dialect rules injected at runtime, three payment systems in parallel (Play Billing, StoreKit 2, World Chain). | React Native, Expo, Gemini Live, Firebase | [Google Play](https://play.google.com/store/apps/details?id=com.locallingo.app) |
-| **Tolka** · [EV3 Labs](https://evidence3.com) | Lead architect & developer. Real-time bidirectional translation with automatic speaker switching and an 800 ms acoustic echo shield for face-to-face conversations. | React Native, 24 kHz PCM, Gemini Live, World ID | Private repo |
-| **Prospectr** | Fullstack developer. B2B prospecting platform for the Swedish market: 1.4M+ companies, with an AI assistant that routes questions to SQL or live web search. | FastAPI, React, Azure SQL, OpenAI | [prospectr.dev](https://prospectr.dev) |
+| **Tolka** · [EV3 Labs](https://evidence3.com) | Lead architect & developer. Real-time face-to-face voice translator with split-screen Talk Mode, automatic speaker switching and an 800 ms acoustic echo shield. | React Native, 24 kHz PCM, Gemini Live, World ID | [Google Play](https://play.google.com/store/apps/details?id=com.tolka.app) |
+| **Prospectr** | Fullstack developer. AI search over 1.4M+ Swedish companies for B2B prospecting: natural-language queries routed to SQL or live web search. | FastAPI, React, Azure SQL, OpenAI | [prospectr.se](https://prospectr.se/) |
+| **DUBBA** · [EV3 Labs](https://evidence3.com) | End-to-end AI video localization: stem separation, multi-speaker diarization, voice cloning and city-level regional dialect profiles. | Python, FFmpeg, GCP | [dubba.evidence3.com](https://dubba.evidence3.com/) |
+| **VOIKA** · [EV3 Labs](https://evidence3.com) | Lead developer. Frontend for an ethical synthetic-voice platform: voice cloning and translation, with consent, licensing and on-chain provenance per track. | React, TypeScript, C2PA, World Chain | [Website](https://voikaconfidental.lovable.app/) |
+| **VILJA** · [EV3 Labs](https://evidence3.com) | Identity voice synthesis for nonverbal communication: personalized AI voices shaped with the family's input. Successor to Alma. | — | [vilja.evidence3.com](https://vilja.evidence3.com/) |
+| **EV3 Stamp** · [EV3 Labs](https://evidence3.com) | Verifiable digital identities for fashion garments, built for the EU Digital Product Passport. | — | [Website](https://ev3stamp.lovable.app/) |
 | **EV3 C2PA infrastructure** · [EV3 Labs](https://evidence3.com) | Backend architect. NestJS backend and TypeScript SDK that embed C2PA provenance metadata in media, anchored on Hedera and XRPL. | NestJS, TypeScript, C2PA, Hedera, IPFS | Private repo |
-| **VOIKA** · [EV3 Labs](https://evidence3.com) | Lead developer. Voice cloning and translation into 50+ languages, with on-chain ownership stamps per track. | React, TypeScript, World Chain | Private repo |
-| **DUBBA** · [EV3 Labs](https://evidence3.com) | End-to-end AI video dubbing: stem separation, speaker diarization, voice cloning and regional dialect profiles. | Python, FFmpeg, GCP | Private repo |
 | **Veristream** | Real-time anti-deepfake verification for WebRTC calls: frame interception, Secure Enclave biometric signatures, Hedera proof anchoring. | WebRTC, Go, Cloud Run, Hedera | Private repo · site coming soon |
-| **Nibiru / Planet IX** | Blockchain developer (internship). Migrated the frontend from React to Nuxt 3; built event listeners and community bots. | Nuxt 3, Node.js, Ethers.js, GCP | — |
+| **Nibiru** (Planet IX) | Blockchain developer (internship). Migrated the frontend from React to Nuxt 3; built event listeners and community bots. | Nuxt 3, Node.js, Ethers.js, GCP | [nibiru.se](https://nibiru.se/) |
 
 ## Stack
 
