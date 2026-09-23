@@ -8,6 +8,8 @@ I build AI products end to end, from system architecture to shipped app. Most re
 
 **Open for freelance projects and full-time roles.**
 
+**Traction at [EV3 Labs](https://evidence3.com):** LocalLingo was featured by World as *Mini App of the Week* · the studio was selected for **Antler** and the **Google for Startups Cloud Program**, and received a **Hedera Foundation** grant.
+
 ---
 
 ## Selected work
